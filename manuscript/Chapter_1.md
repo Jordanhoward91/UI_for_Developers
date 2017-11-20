@@ -189,7 +189,7 @@ forward and you’re not. I mean that’s just the right way to do it.
 {width: 8, float: left}
 ![](jordan.png)
 
-: Absolutely, and with that when you know the application you’re building and the feature set
+Absolutely, and with that when you know the application you’re building and the feature set
 that’s definitely one part of it. Do you find that when you are not actually going and you don’t have
 a specific project in mind do you still just to continually learn and find new things? Are you still
 going to those websites just to look out of curiosity?
@@ -197,7 +197,7 @@ going to those websites just to look out of curiosity?
 {width: 8, float: left}
 ![](jesse.png)
 
-: Yeah it’s like Instagram right.? It’s like a social network, and even more so you know I have a
+Yeah it’s like Instagram right.? It’s like a social network, and even more so you know I have a
 bookmark folder, and whenever I’m on any website and I like something that they did I’ll bookmark
 it. I’m like. “Oh man, I really like how they showed this testimonial”. The next time I’m designing
 the Web site I’m going to come and look at this testimonial, right? So I’m always saving stuff that I
@@ -220,7 +220,7 @@ the time.
 {width: 8, float: left}
 ![](jordan.png)
 
-: That’s huge. That’s one of the biggest points on why I wanted to include this guide in the entire
+That’s huge. That’s one of the biggest points on why I wanted to include this guide in the entire
 course and to me this is actually one of the most important things that everyone will take away
 from the course because I personally feel especially when I was younger and I was really struggling
 with coming up with design ideas because there would be so many times I’d be the only developer
