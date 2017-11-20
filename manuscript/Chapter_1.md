@@ -145,6 +145,9 @@ Yeah.
 
 And that never turned out well.
 
+{width: 8, float: left}
+![](jordan.png)
+
 You know we haven’t even talked about that. You know there are the apples of the world and those types of people. They have a lot of thought processes and they spent tens of millions of dollars in researching what makes a good user interface and to simply ignore that is irresponsible.
 
 {width: 8, float: left}
