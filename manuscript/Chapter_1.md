@@ -4,7 +4,7 @@ Introduction to User Interface and Design For Developers
 {width: 8, float: left}
 ![](jordan.png)
 
-: Hi and welcome to this course on user interface for developers. My name is Jordan
+Hi and welcome to this course on user interface for developers. My name is Jordan
 Hudgens. And with me is Jesse Cook the CEO and creative director for the slate development shop.
 If you followed along in our user experience course that is where we helped you develop a system for
 all of the steps needed for building a clean and efficient user interface. And that is a very important
@@ -21,7 +21,7 @@ been doing this for years and has had quite a bit of success in implementing the
 {width: 8, float: left}
 ![](jesse.png)
 
-: Yeah. What we really want to talk about is to give you guys the best fundamentals to
+Yeah. What we really want to talk about is to give you guys the best fundamentals to
 give you guys that low hanging fruit that’s going to really push your ability to design something
 yourself and not only just design it but also understand the principles that any creative is being
 delivered to you with so that you can understand how to implement those designs in a pixel-perfect
@@ -34,14 +34,14 @@ able to implement designs that are given to you a lot more confidently.
 {width: 8, float: left}
 ![](jordan.png)
 
-: Absolutely. And just before we were filming we’re talking about one of the developers that
+Absolutely. And just before we were filming we’re talking about one of the developers that
 works for Slate who also is very good at design. And you’re talking about how with that set of skill
 that combination it has made every project he’s work on just turn out very well.
 
 {width: 8, float: left}
 ![](jesse.png)
 
-: Yeah, he showed a huge interest in really stepping more into the design realm. You know we
+Yeah, he showed a huge interest in really stepping more into the design realm. You know we
 hired him on as a developer and he really showed that he wanted to take a proactive approach to
 learning the creative direction part. And he’s just been flourishing and it’s been awesome. Not only
 has he been having a great time like really being able to expand his skill set but the other developers
@@ -55,7 +55,7 @@ there.
 {width: 8, float: left}
 ![](jordan.png)
 
-: Absolutely that’s something that for my own side one thing that I personally am trying to
+Absolutely that’s something that for my own side one thing that I personally am trying to
 improve on myself is in this exact skill because the workflow that I’ve had for the majority of my
 own career has been working with somebody like yourself and I would always have to wait until I
 got the mockups the designs everything like that. And it always made it so I was constantly waiting
@@ -68,7 +68,7 @@ and make the entire process much more efficient.
 {width: 8, float: left}
 ![](jesse.png)
 
-: Yeah, absolutely it’s definitely something where you shouldn’t be terrified of design and think
+Yeah, absolutely it’s definitely something where you shouldn’t be terrified of design and think
 oh I don’t have any design in my in my jeans so I’m not ever going to be able to be a designer. There’s
 a lot of very basic fundamentals that if you understand those and really practice those and take an
 active approach to learning how to better implement typography in color and white space it’s going
@@ -84,14 +84,14 @@ you could do to make it look better.
 {width: 8, float: left}
 ![](jordan.png)
 
-: Absolutely. This is, a course, I’m very excited about it. I hope that you get as much from it as I
+Absolutely. This is, a course, I’m very excited about it. I hope that you get as much from it as I
 do. And we will see you in the next set of guides.
 How to Create a System for Design Inspiration
 
 {width: 8, float: left}
 ![](jordan.png)
 
-: Hi, and welcome to our guide on inspiration as it applies to a user interface. This
+Hi, and welcome to our guide on inspiration as it applies to a user interface. This
 is a really important part of the course because as I’ve gone through other user interface courses and
 I’ve tried to learn to see what types of things are important to teach but also to learn. This seemed
 to be a very critical component that seemed to be missing. And so that’s why we’re going into it
@@ -110,7 +110,7 @@ UI Course Introduction 3
 {width: 8, float: left}
 ![](jesse.png)
 
-: Right. Absolutely, this is something that I find a lot of designers are kind of hesitant to
+Right. Absolutely, this is something that I find a lot of designers are kind of hesitant to
 talk about sometimes not with other designers but maybe in a situation like this because it’s almost
 like you know you’re giving away a little bit of the “secret sauce”. The concept of looking to other
 work for inspiration is crucial. There’s no reason why that’s how we are getting better at our design
@@ -140,10 +140,10 @@ you scroll.
 {width: 8, float: left}
 ![](jordan.png)
 
-: Absolutely.
+Absolutely.
 
 {width: 8, float: left}
-![](jesse.png):
+![](jesse.png)
 
 And then you know we’ve now hit 2010. People figured out that you can scroll and then you start
 seeing a lot more landing pages come up where you can tell a story you know section by section by
@@ -233,12 +233,12 @@ that came out of nothing.
 {width: 8, float: left}
 ![](jesse.png)
 
-: Yeah.
+Yeah.
 
 {width: 8, float: left}
 ![](jordan.png)
 
-: And that never turned out well.
+And that never turned out well.
 You know we haven’t even talked about that. You know there are the apples of the world and those
 types of people. They have a lot of thought processes and they spent tens of millions of dollars in
 researching what makes a good user interface and to simply ignore that is irresponsible.
@@ -246,12 +246,12 @@ researching what makes a good user interface and to simply ignore that is irresp
 {width: 8, float: left}
 ![](jesse.png)
 
-: it really is.
+it really is.
 
 {width: 8, float: left}
 ![](jordan.png)
 
-: learning from all of the work that’s been done by people who’ve been doing this for a very long
+learning from all of the work that’s been done by people who’ve been doing this for a very long
 time. That’s a very critical component of it. And if we skip past that we’re constantly going to be
 running into the same problems over and over again where we just kind of get stuck and can’t really
 build something that feels professional.
@@ -259,7 +259,7 @@ build something that feels professional.
 {width: 8, float: left}
 ![](jesse.png)
 
-: Right, take for example Snapchat, and then all of a sudden Facebook comes out with a very
+Right, take for example Snapchat, and then all of a sudden Facebook comes out with a very
 similar feature on Instagram and then adds that live streaming to its Facebook platform or the live
 streaming on Facebook, compare that to Meerkat or periscope things like that. They look extremely
 similar. Why? Because there’s a lot of objectively correct ways to do things in there. It’s like they’re
@@ -276,7 +276,7 @@ scared that you may be copying something then you’re doing yourself a huge dis
 {width: 8, float: left}
 ![](jordan.png)
 
-: I think that is 100% accurate. Some homework for you as students going through this is before
+I think that is 100% accurate. Some homework for you as students going through this is before
 you even go on to the next guide. I definitely recommend for you to go to a few of those applications
 UI Course Introduction 6
 like dribble4
@@ -294,7 +294,7 @@ Strategies for Building a UI Color Scheme
 {width: 8, float: left}
 ![](jordan.png)
 
-: As we continue on in this section on the elements of design for user interfaces
+As we continue on in this section on the elements of design for user interfaces
 in this guide we’re going to talk about colors and how we can use colors how we can pick them
 out and we’re also going to get into some very practical sides on when we’ve had a few examples
 where the color was more than just something that looked pretty color actually determined parts
@@ -308,19 +308,19 @@ business and how it looked.
 {width: 8, float: left}
 ![](jesse.png)
 
-: Yeah. I love color, I think it’s so fun to pick what colors I would use in an app. I
+Yeah. I love color, I think it’s so fun to pick what colors I would use in an app. I
 really wanted to get a client who would let me design something completely purple. I haven’t done
 something all purple.
 
 {width: 8, float: left}
 ![](jordan.png)
 
-: You weren’t hired by Yahoo?
+You weren’t hired by Yahoo?
 
 {width: 8, float: left}
 ![](jesse.png)
 
-: I really love being able to plan out my whole color scheme for the app. When you’re doing that
+I really love being able to plan out my whole color scheme for the app. When you’re doing that
 you’re going to be thinking of a few things. It’s not necessarily just like oh well I like this color so
 I’m going to pick it. You have the branding of that company or that product, or that specific project
 that you need to consider. You need to know how that color is going to behave in every aspect. A
@@ -340,34 +340,34 @@ UI Course Introduction 7
 {width: 8, float: left}
 ![](jordan.png)
 
-: right
+right
 
 {width: 8, float: left}
 ![](jesse.png)
 
-: Bad monitors are really bad at separating like an f7f7f7 Gray from just a pure white. And they
+Bad monitors are really bad at separating like an f7f7f7 Gray from just a pure white. And they
 see them both as white and you’ll see that on projectors too.
 
 {width: 8, float: left}
 ![](jordan.png)
 
-: Yeah
+Yeah
 
 {width: 8, float: left}
 ![](jesse.png)
 
-: That’s why I make sure when I’m showing clients I like showing them on my monitor, not a
+That’s why I make sure when I’m showing clients I like showing them on my monitor, not a
 projector because it just looks like I just made an all white app.
 
 {width: 8, float: left}
 ![](jordan.png)
 
-: Projectors make for some very bad types of demos for clients.
+Projectors make for some very bad types of demos for clients.
 
 {width: 8, float: left}
 ![](jesse.png)
 
-: Yeah, exactly
+Yeah, exactly
 You’re thinking about a lot more than just necessarily what makes it look pretty. A really good
 tool for planning out your color scheme and we’ll put the Web site in and of course materials. But
 Paletton5
@@ -388,7 +388,7 @@ an app that’s going to be using both and at the same time.
 {width: 8, float: left}
 ![](jordan.png)
 
-: One example kind of going back to making sure everything’s pixel perfect. The one time with
+One example kind of going back to making sure everything’s pixel perfect. The one time with
 Devcamp I was building out a screen that you had sent over and it had a button and everything
 matched except when I started using it something just felt a little bit different. And you the one that
 caught it and it turned out that the border of the button was just slightly different. And that’s what
@@ -398,23 +398,23 @@ it off and it made it feel not quite right.
 {width: 8, float: left}
 ![](jesse.png)
 
-: it was fuzzy.
+it was fuzzy.
 
 {width: 8, float: left}
 ![](jordan.png)
 
-: Just another example of how detailed it is and how important that is.
+Just another example of how detailed it is and how important that is.
 
 {width: 8, float: left}
 ![](jesse.png)
 
-: Don’t get mad at your designers if they’re being really nitpicky over stuff like that because it
+Don’t get mad at your designers if they’re being really nitpicky over stuff like that because it
 makes a big difference
 
 {width: 8, float: left}
 ![](jordan.png)
 
-: It really does.
+It really does.
 Just so you understand the process that when I’m working on a project with the Jesse he’ll send over
 the screens I will go implement them. Then as soon as I feel like they match from what I see I send
 5
@@ -429,7 +429,7 @@ a huge difference.
 {width: 8, float: left}
 ![](jesse.png)
 
-: Oh yeah.
+Oh yeah.
 A lot of times its not even necessarily things that I picked up from the beginning and then once I
 actually see it in use and I can hover over things and start to see how things actually work. All of a
 sudden it’s like whoa, my strategy was wrong.
@@ -444,24 +444,24 @@ and we were looking at it and there’s something both of us don’t like about 
 {width: 8, float: left}
 ![](jordan.png)
 
-: right.
+right.
 
 {width: 8, float: left}
 ![](jesse.png)
 
-: But we didn’t know what it was and what we realized was that what it’s doing, and this is it
+But we didn’t know what it was and what we realized was that what it’s doing, and this is it
 shows the power of color, what it was doing is that all the people you were following had this big
 red gross thing next to them and it just felt negative.
 
 {width: 8, float: left}
 ![](jordan.png)
 
-: Right.
+Right.
 
 {width: 8, float: left}
 ![](jesse.png)
 
-: But these are the people you’re following these are the people you like most on this platform and
+But these are the people you’re following these are the people you like most on this platform and
 they have this big like angry red button right next to them and it just didn’t feel right even though
 it was very functional that you’re like “Oh, I know where to go to click unfollow that person.” But
 it just didn’t make you feel good about looking at the people that you were following.
@@ -469,7 +469,7 @@ it just didn’t make you feel good about looking at the people that you were fo
 {width: 8, float: left}
 ![](jordan.png)
 
-: Right.
+Right.
 That’s such an important thing with color, red for one example, is something that is usually only
 used to signal that something bad happened. It usually is that an error happened on the page, or the
 form you submitted didn’t have the information that is needed and you need to go fix it. So typically
@@ -490,7 +490,7 @@ in an application.
 {width: 8, float: left}
 ![](jesse.png)
 
-: Right, and it shows how user interface kind of interplays with user experience. Because you
+Right, and it shows how user interface kind of interplays with user experience. Because you
 are thinking of a couple of things at that point we have to ask ourselves the question. Well okay,
 so Instagram they don’t like leaving a bunch of unfollow buttons because they don’t want people
 gaming the system and they don’t want people going and just unfollow, unfollow, unfollow. They
@@ -504,7 +504,7 @@ unfollow. It just changes the words but it doesn’t go red to connotate somethi
 {width: 8, float: left}
 ![](jordan.png)
 
-: Absolutely, and that’s really one of the main takeaways that I want you to get from this specific
+Absolutely, and that’s really one of the main takeaways that I want you to get from this specific
 guide is that colors are much more than just some kind of palette on the screen. They are something
 that can help dictate that user experience and change the way that your users interact with the
 system. So I definitely recommend for you to go and check out some popular applications and note
