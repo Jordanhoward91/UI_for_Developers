@@ -5,16 +5,14 @@
 {width: 8, float: left}
 ![](jordan.png)
 
-{width: 8, float: left}
-![](jordan.png) In this section of the course, we're going to get into UI design elements. In this very first guide, we're going to be talking about typographic. This is something that I've personally seen as I've worked on projects especially a few of the projects lately where this seems like it's not a big deal until it's not done right.
+**Jordan Hudgens:** In this section of the course, we're going to get into UI design elements. In this very first guide, we're going to be talking about typographic. This is something that I've personally seen as I've worked on projects especially a few of the projects lately where this seems like it's not a big deal until it's not done right.
 
 I remember on the daily smarty project I implemented the full initial design and I had picked out the right fonts. Everything on the page was exactly where it should be. But there were some subtle changes such as I didn't match in the first draft the correct weight on some of the fonts and I would look at your design and then I'd look back at the screen and the screen was not good. It did not feel professional and even though it had 98% of the design matched. So this is something critical it's something I've seen that really separates an average design from something that truly looks perfect.
 
 {width: 8, float: left}
 ![](jesse.png)
 
-{width: 8, float: left}
-![](jesse.png) Absolutely! This is the really fun stuff. These are going to be some exciting guides typography is awesome. I love typography and sometimes I hate typography. But good type theory makes a huge difference and that's why I wanted to start with this thing specifically. Typography can be extremely finicky, you can be one point away from fantastic looking pages or just garbage looking pages. The reason why it's not just one isolated piece of text is because type plays off of each other so much. By different font families or different weights or different sizes. Everything on that page needs to be talking to each other because if one thing doesn't belong if one thing is not doing what it's supposed to you know you might make that body text just one point bigger and it might not seem like a big deal but now all of a sudden all my headers don't properly take control of the situation. They've kind of like lost control of the body copy and they're not as bold as they need to be.
+**Jesse Cooke:** Absolutely! This is the really fun stuff. These are going to be some exciting guides typography is awesome. I love typography and sometimes I hate typography. But good type theory makes a huge difference and that's why I wanted to start with this thing specifically. Typography can be extremely finicky, you can be one point away from fantastic looking pages or just garbage looking pages. The reason why it's not just one isolated piece of text is because type plays off of each other so much. By different font families or different weights or different sizes. Everything on that page needs to be talking to each other because if one thing doesn't belong if one thing is not doing what it's supposed to you know you might make that body text just one point bigger and it might not seem like a big deal but now all of a sudden all my headers don't properly take control of the situation. They've kind of like lost control of the body copy and they're not as bold as they need to be.
 
 It just unbalances everything and honestly, if you're not thinking about typography you can be looking at a page and you're like I don't know what's wrong with it but something's wrong with it. There's a good chance it's the typography. It's something I run into with developers all the time where they think that close enough is good enough. It's not, it's got to be dead on.
 
@@ -42,7 +40,7 @@ Right, so you kind of have to start at understanding some basic typography princ
 
 ![](https://s3-us-west-2.amazonaws.com/devcamp-pictures/UI+for+Developers/UI+Course+Introduction/How+to+Analyze+Typography+for+Software+Systems+%23+1263/image1.png)
 
-Where every all the characters just stop they just end. Different fonts are going to work better in different instances. Now while there's a lot of rules with typography every rule can be broken with typography but there are some key things. For example, take dailysmarty. When we were designing that, all the headers, labels, things like. Those are all Sans Serif fonts. But the body copy, on a large post that's a Serif font because our eyes have a lot easier time reading Serif fonts especially in large paragraphs.
+Where all the characters just stop they just end. Different fonts are going to work better in different instances. Now while there's a lot of rules with typography every rule can be broken with typography but there are some key things. For example, take dailysmarty. When we were designing that, all the headers, labels, things like. Those are all Sans Serif fonts. But the body copy, on a large post that's a Serif font because our eyes have a lot easier time reading Serif fonts especially in large paragraphs.
 
 It's fine when you have a header or something like that. That's not to say that you can't have a body that's sometimes Sans Serif, I do it. I also have headers that are Serif fonts.
 
@@ -74,7 +72,7 @@ Absolutely. What are some tools that you use to be able to go through that and t
 {width: 8, float: left}
 ![](jesse.png)
 
-A great place to start is [Google fonts](fonts.google.com). Not only are they really easy to implement and there's a lot of them and they're high quality and you don't have to pay for them. What's really nice is that they also show nice fonts that pair with each other.
+A great place to start is Google fonts (fonts.google.com). Not only are they really easy to implement and there's a lot of them and they're high quality and you don't have to pay for them. What's really nice is that they also show nice fonts that pair with each other.
 
 {width: 8, float: left}
 ![](jordan.png)
