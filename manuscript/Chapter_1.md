@@ -4,8 +4,8 @@ Introduction to User Interface and Design For Developers
 {width: 8, float: left}
 ![](jordan.png)
 
-Hi and welcome to this course on user interface for developers. My name is Jordan
-Hudgens. And with me is Jesse Cook the CEO and creative director for the slate development shop.
+**Jordan Hudgens:** Hi and welcome to this course on user interface for developers. My name is Jordan
+Hudgens. And with me is Jesse Cooke the CEO and creative director for the slate development shop.
 If you followed along in our user experience course that is where we helped you develop a system for
 all of the steps needed for building a clean and efficient user interface. And that is a very important
 component on building an application build whether it be mobile desktop or any type of software
@@ -21,7 +21,7 @@ been doing this for years and has had quite a bit of success in implementing the
 {width: 8, float: left}
 ![](jesse.png)
 
-Yeah. What we really want to talk about is to give you guys the best fundamentals to
+**Jesse Cooke:** Yeah. What we really want to talk about is to give you guys the best fundamentals to
 give you guys that low hanging fruit that’s going to really push your ability to design something
 yourself and not only just design it but also understand the principles that any creative is being
 delivered to you with so that you can understand how to implement those designs in a pixel-perfect
