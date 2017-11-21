@@ -12,7 +12,7 @@ This is a very special topic for me and it's one where I've specifically asked f
 {width: 8, float: left}
 ![](jesse.png)
 
-**Jesse Cook:** Hahaha.
+**Jesse Cooke:** Hahaha.
 
 {width: 8, float: left}
 ![](jordan.png)
@@ -117,6 +117,6 @@ Because, I didn't apply any of those kinds of practices! And it made a lot more 
 
 That's a huge thing I want you to take from this guide specifically. You may think, if you were like me, you may have just thought that logo design was something that could be done by artists. There definitely is an art component to it, you do have to have that creativity and work on it, but there is much more that goes into that.
 
-There is a science, so there are ways, when you look at some of the best logos that have ever been made they do match those kinds of patterns. So if you're like me and you are not naturally great at creating logos, it might just be because you haven't dug into the science enough yet. That's a personal thing that I'm going to be working on is being able to experiment with that and see if I can finally kind of get past that point a little bit. So I'm excited about that. 
+There is a science, so there are ways, when you look at some of the best logos that have ever been made they do match those kinds of patterns. So if you're like me and you are not naturally great at creating logos, it might just be because you haven't dug into the science enough yet. That's a personal thing that I'm going to be working on is being able to experiment with that and see if I can finally kind of get past that point a little bit. So I'm excited about that.
 
 For homework on this one, I definitely recommend that you look through some of the more popular logos out there. See if you can recognize some of these patterns, and then later on in the actual project for this entire course, one of the elements that you're going to be asked to build is your own logo. So that is something to look forward to and I will see you in the next guide.

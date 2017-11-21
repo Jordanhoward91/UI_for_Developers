@@ -11,7 +11,7 @@ In this first guide what I want to talk about is the concepts of planning with d
 {width: 8, float: left}
 ![](jesse.png)
 
-**Jesse Cook:** Right, absolutely.
+**Jesse Cooke:** Right, absolutely.
 
 This is something that definitely is becoming more and more important, as more things are being built for mobile. Almost every software application that we build is almost always required to have a mobile version of it, if not an exact clone. So there's definitely some very important considerations you're going to have when designing for both desktop and mobile, or just one independently, but definitely the interplay between the two.
 
@@ -151,7 +151,7 @@ Don't go crazy diverging from it, but don't be so rigid that it keeps you from d
 {width: 8, float: left}
 ![](jordan.png)
 
-Yes, absolutely. 
+Yes, absolutely.
 
 The homework for this guide is: go to some type of application--it could be a popular one like Facebook or Twitter--and create a style guide for that application. This would be very similar to the process you would do if you had just finished building the user interface and then went and checked to see what all those styles were. See what the heading font size is, what the colors are, the background colors, all of these different types of components, even getting down very granular into border radius. That makes a huge difference. Just making sure that each one of the edges of your divs are rounded in the right way.
 
